@@ -1,0 +1,85 @@
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.pdb
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe.config
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CopyComplete
+C:\Users\user\Desktop\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.pdb
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe.config
+C:\Users\user\Desktop\구이프로젝트 (3)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CopyComplete
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.pdb
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe.config
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CopyComplete
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.pdb
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe.config
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CopyComplete
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\구이프로젝트 (2) (2)\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.pdb
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe.config
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CopyComplete
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\uer\Desktop\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.pdb
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Server.exe.config
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\client.csproj.CopyComplete
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LG\Desktop\GUI 최종\구이프로젝트 (3) (2)\구이프로젝트\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
