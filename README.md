@@ -23,8 +23,8 @@ socket을 이용한 mafia 게임 (C#)
 
 ## 5. 실행 화면
 네 사람이 게임을 진행함
-<img src="https://user-images.githubusercontent.com/57400849/126062850-0c5156ce-0cfe-4dca-b517-6d6bbe3d48ed.png">
-
+<img src="https://user-images.githubusercontent.com/57400849/126062850-0c5156ce-0cfe-4dca-b517-6d6bbe3d48ed.png"><br><br>
+<img src="https://user-images.githubusercontent.com/57400849/132151575-e42e8b4f-627d-453a-9d49-c394b80153b5.gif">
 ## 6. 차별성
 * 1:1 채팅이 아닌 1:N 다중 채팅 구현
 * 특정 클라이언트에게만 메시지 전송
